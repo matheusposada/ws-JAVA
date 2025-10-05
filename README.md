@@ -1,2 +1,2 @@
-# ws-JAVA
+# ws-java
 Java workspace
